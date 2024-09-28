@@ -1,0 +1,7 @@
+id = "adwaita-theme"
+name = "Adwaita Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Joshua Rowe <omniscient.oce@gmail.com>"]
+description = "Adwaita theme based on the VSCode theme of the same name."
+repository = "https://github.com/omnisci3nce/zed-adwaita"

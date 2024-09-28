@@ -1,0 +1,60 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "name": "Adwaita",
+  "author": "Joshua Rowe <omniscient.oce@gmail.com>",
+  "themes" : [
+    {
+      "name": "Adwaita Light",
+      "appearance": "light",
+      "style": {
+        "editor.background": "#FFFFFF",
+        "editor.foreground": "#000000",
+        "syntax": {
+          "comment": {
+            "color": "#77767B"
+          },
+          "constant": {
+            "color": "#4E57BA"
+          },
+          "constructor": {
+            "color": "#4E57BA"
+          },
+          "number": {
+            "color": "#4E57BA"
+          },
+          "keyword" : {
+            "color": "#C64600",
+            "font_style": null,
+            "font_weight": 500
+          },
+          "string": {
+            "color": "#218787",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type": {
+            "color": "#218787",
+            "font_style": null,
+            "font_weight": 600
+          },
+          "variable": {
+            "color": "#504E55"
+          }
+        }
+      }
+    },
+    {
+      "name": "Adwaita Dark",
+      "appearance": "dark",
+      "style": {
+        "syntax": {
+          "keyword": {
+            "color": "#FFA348",
+            "font_style": null,
+            "font_weight": 500
+          }
+        }
+      }
+    }
+  ]
+}
